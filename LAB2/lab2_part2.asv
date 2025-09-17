@@ -1,0 +1,4 @@
+zeta=0.6;
+a = -30;
+out1 = sim("lab2_part2_model");
+y2a = out1.

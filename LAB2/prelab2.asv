@@ -1,0 +1,13 @@
+
+% plot out.tout against out.y and out.ydot in a 1x2 subplot
+figure;
+
+subplot(1, 2, 1);
+plot(out.tout, out.y);
+xlabel('Time');
+ylabel('Output y');
+title('Output y vs Time');
+
+subplot(1,2,1);
+p
+

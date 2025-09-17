@@ -1,0 +1,5 @@
+zeta1=0.6;
+a1 = 50;
+out2 = sim("lab2_part3_model");
+y3a = out2.z;
+tout3a = out2.tout;
